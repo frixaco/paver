@@ -1,0 +1,4 @@
+- https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+- https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+- https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
