@@ -1,5 +1,8 @@
 # Browser-Native PDF Converter
 
+- https://www.datalab.to/app/playground/documents/new
+- https://pdf-to-markdown.com/#examples
+
 This project is building a browser-native document conversion pipeline for PDFs.
 
 Target:
